@@ -1,0 +1,28 @@
+
+.footer{
+  background-color: #0A4E30;
+  padding: 60px;
+  text-align: center;
+}
+
+.footer a {
+  font-size: 36px;
+  color: #FE883D;
+}
+
+.footer a:hover{
+  color: #F37B31;
+}
+
+.fas{
+  padding: 5px;
+}
+
+.footer p {
+  color: #F7F7FF;
+}
+
+/*
+.icons{
+  display: block;
+} */
